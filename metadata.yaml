@@ -1,0 +1,47 @@
+_repo: The-Talisman_1377
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Cleishbotham, Jedediah
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    - Templeton, Laurence
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: "The Talisman is a novel by Sir Walter Scott. It was published in 1825\
+  \ as the second of his Tales of the Crusaders, the first being The Betrothed.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '1998-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1377'
+  wikidata: Q952340
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Richard I, King of England, 1157-1199 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Jerusalem -- History -- Latin Kingdom, 1099-1244 -- Fiction'
+- !lcsh 'Crusades -- Third, 1189-1192 -- Fiction'
+- !lcsh 'Knights and knighthood -- Fiction'
+- GITenberg
+title: The Talisman
+url: http://www.gutenberg.org/ebooks/1377
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Talisman_(roman_de_Scott)
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B7%D9%84%D8%B3%D9%85_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://en.wikipedia.org/wiki/The_Talisman_(Scott_novel)
+- https://pl.wikipedia.org/wiki/Talizman_(powie%C5%9B%C4%87_Waltera_Scotta)
+- https://hy.wikipedia.org/wiki/%D4%B9%D5%A1%D5%AC%D5%AB%D5%BD%D5%B4%D5%A1%D5%B6_(%D5%BE%D5%A5%D5%BA,_1825)
+- https://uk.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BB%D1%96%D1%81%D0%BC%D0%B0%D0%BD_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BB%D0%B8%D1%81%D0%BC%D0%B0%D0%BD_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD,_1825)
+- https://el.wikipedia.org/wiki/%CE%A1%CE%B9%CF%87%CE%AC%CF%81%CE%B4%CE%BF%CF%82_%CE%BF_%CE%9B%CE%B5%CE%BF%CE%BD%CF%84%CF%8C%CE%BA%CE%B1%CF%81%CE%B4%CE%BF%CF%82_(%CE%BC%CF%85%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%81%CE%B7%CE%BC%CE%B1)
