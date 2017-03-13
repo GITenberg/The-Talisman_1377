@@ -1,5 +1,8 @@
 _repo: The-Talisman_1377
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scott, Walter
@@ -16,6 +19,8 @@ creator:
 description: "The Talisman is a novel by Sir Walter Scott. It was published in 1825\
   \ as the second of his Tales of the Crusaders, the first being The Betrothed.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1377#The-Talisman
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '1998-07-01'
 gutenberg_type: Text
